@@ -1,22 +1,76 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Nakul's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with **React**, **Vite**, and **Tailwind CSS**.  
+This project showcases my skills, projects, and experience with a clean UI and fast performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+🔗 https://portfolio-nakul-99.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 About the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# My-Portfolio
-This is my new portfolio Website.
+This portfolio is designed to present my professional profile in a simple, elegant, and performance-focused way.  
+It highlights my technical skills, featured projects, and contact information.
 
-[# 🚀 Live Demo ](https://portfolio-nakul-99.vercel.app/)
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- ⚛️ **React** – Component-based UI development
+- ⚡ **Vite** – Fast development and optimized builds
+- 🎨 **Tailwind CSS** – Utility-first CSS framework
+
+### Deployment
+- ▲ **Vercel** – Hosting and CI/CD
+
+---
+
+## ✨ Features
+
+- Fully responsive design
+- Fast load times with Vite
+- Clean and modern UI
+- Reusable React components
+- Mobile-first layout
+- Deployed with HTTPS
+
+---
+
+## 📂 Project Structure
+```
+├── src
+│ ├── components
+│ ├── pages
+│ ├── assets
+│ ├── App.jsx
+│ └── main.jsx
+├── public
+├── index.html
+├── package.json
+└── README.md
+```
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+- Node.js (18 or above)
+- npm 
+
+---
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
+npm run build 
